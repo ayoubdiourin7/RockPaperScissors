@@ -1,0 +1,36 @@
+/* style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.main {
+    margin: 20px;
+}
+
+.weapon {
+    display: inline-block;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.weapon img {
+    width: 100px;
+    height: 100px;
+}
+
+.score {
+    margin-top: 20px;
+}
+
+.text {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 5px 0;
+}
+
+#output {
+    font-size: 24px;
+    font-weight: bold;
+}
